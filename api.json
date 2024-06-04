@@ -1,0 +1,202 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "áo",
+      "image": "https://pubcdn.ivymoda.com/files/product/thumab/1400/2023/10/20/7d68476945279cb205d91ed2d731a6d5.jpg"
+    },
+    {
+      "id": "2",
+      "name": "quần",
+      "image": "https://pubcdn.ivymoda.com/files/product/thumab/1400/2023/10/06/414fd7a941c15b0d128804abc8c08df2.jpg"
+    },
+    {
+      "id": "3",
+      "name": "váy",
+      "image": "https://pubcdn.ivymoda.com/files/product/thumab/1400/2024/01/03/23a4388c1ef8047134a93df301917a53.jpg"
+    },
+    {
+      "id": "4",
+      "name": "đầm",
+      "image": "https://pubcdn.ivymoda.com/files/product/thumab/1400/2023/11/11/68b951d1293db4eb65dc3887a5315469.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "áo sơ mi nữ",
+      "cate_id": "1",
+      "price": 250000,
+      "detail": "Thiết kế set bộ đang là sự lựa chọn ưu tiên trong thời trang công sở thời gian trở lại đây bởi tính ứng dụng cũng như sự chỉn chu, sang trọng mà nó mang lại. Nàng vừa có thể mặc theo set vừa có thể tách rời để biến tấu thành nhiều outfits khác nhau.",
+      "image": "https://pubcdn.ivymoda.com/files/product/thumab/1400/2024/01/03/ec89554dee836d76db14c8e576e325c8.jpg",
+      "image1": "https://pubcdn.ivymoda.com/files/product/thumab/1400/2024/01/03/f010aa80f69ae64b6b5e2762c821dc9c.jpg"
+    },
+    {
+      "id": "2",
+      "name": "áo sơ mi nam",
+      "cate_id": "1",
+      "price": 250000,
+      "detail": "- Áo sơ mi dáng Regular mang vẻ đẹp cổ điển, thời thượng giúp tôn lên vẻ đẹp nam tính của quý anh.",
+      "image": "https://pubcdn.ivymoda.com/files/product/thumab/1400/2022/01/11/55dc91c334bbcfaf94faab4b8f4fc695.JPG",
+      "image1": "https://pubcdn.ivymoda.com/files/product/thumab/1400/2022/01/11/4296047af186f448459e25302cc2143c.JPG"
+    },
+    {
+      "id": "3",
+      "name": "quần tây nam",
+      "cate_id": "2",
+      "price": 250000,
+      "detail": "- Chất liệu vải Bamboo ( vải sợi tre) bền chắc, an toàn và thân thiện với môi trường. Thiết kế mềm mại, thoáng khí, thấm hút mồ hôi tốt, chống tia UV và đặc biệt là ít nhăn.",
+      "image": "https://pubcdn.ivymoda.com/files/product/thumab/1400/2022/03/23/849e35aebc93462827ad099f394ef605.JPG",
+      "image1": "https://pubcdn.ivymoda.com/files/product/thumab/1400/2022/01/11/4296047af186f448459e25302cc2143c.JPG"
+    },
+    {
+      "id": "4",
+      "name": "chân váy jean dài qua gối",
+      "cate_id": "3",
+      "price": 350000,
+      "detail": "Một chiếc chân váy jeans trong tủ quần áo sẽ mang lại tính linh hoạt trong việc phối đồ, giúp bạn dễ dàng thể hiện phong cách cá nhân.",
+      "image": "https://pubcdn.ivymoda.com/files/product/thumab/1400/2023/11/13/eeaf00f054f5776a8fa1a405f8573e8b.jpg",
+      "image1": "https://pubcdn.ivymoda.com/files/product/thumab/1400/2022/01/11/4296047af186f448459e25302cc2143c.JPG"
+    },
+    {
+      "id": "5",
+      "name": "chân váy chữ A",
+      "cate_id": "3",
+      "price": 350000,
+      "detail": "Kiểu dáng chữ A giúp tôn lên vóc dáng người mặc, điểm nhấn của sản phẩm nằm ở thiếu kế túi hộp bên sườn cùng phần cạp chun ở hai ên eo, tạo nên sự tiện dụng và thời trang khi diện.",
+      "image": "https://pubcdn.ivymoda.com/files/product/thumab/1400/2022/10/12/8c4739de804aef680f8f24266e85405c.jpeg",
+      "image1": "https://pubcdn.ivymoda.com/files/product/thumab/1400/2022/01/11/4296047af186f448459e25302cc2143c.JPG"
+    },
+    {
+      "id": "6",
+      "name": "quần dạ ống rộng",
+      "cate_id": "2",
+      "price": 500000,
+      "detail": "với chất liệu cotton thoáng mát",
+      "image": "https://pubcdn.ivymoda.com/files/product/thumab/1400/2022/12/30/803250b1c969c0bfc44a486e5273dd7b.jpg",
+      "image1": "https://pubcdn.ivymoda.com/files/product/thumab/1400/2022/01/11/4296047af186f448459e25302cc2143c.JPG"
+    },
+    {
+      "id": "7",
+      "name": "quần ống rộng phối kẻ sọc",
+      "cate_id": "2",
+      "price": 450000,
+      "detail": "với chất liệu cotton thoáng mát",
+      "image": "https://pubcdn.ivymoda.com/files/product/thumab/1400/2023/10/20/1d821a22f4c96a918a1e65f9491a0e73.jpg",
+      "image1": "https://pubcdn.ivymoda.com/files/product/thumab/1400/2022/01/11/4296047af186f448459e25302cc2143c.JPG"
+    },
+    {
+      "id": "8",
+      "name": "đầm lụa xếp ly công sở",
+      "cate_id": "4",
+      "price": 1000000,
+      "detail": "với chất liệu cotton thoáng mát",
+      "image": "https://pubcdn.ivymoda.com/files/product/thumab/1400/2023/11/11/79166b486097ea895273638e475c6fac.jpg",
+      "image1": "https://pubcdn.ivymoda.com/files/product/thumab/1400/2022/01/11/4296047af186f448459e25302cc2143c.JPG"
+    },
+    {
+      "id": "9",
+      "name": "đầm hoa xếp ly",
+      "cate_id": "4",
+      "price": 500000,
+      "detail": "với chất liệu cotton thoáng mát",
+      "image": "https://pubcdn.ivymoda.com/files/product/thumab/1400/2024/01/18/fc5a37daaaab2e1f9ba9f72f32f220ab.jpg",
+      "image1": "https://pubcdn.ivymoda.com/files/product/thumab/1400/2022/01/11/4296047af186f448459e25302cc2143c.JPG"
+    },
+    {
+      "id": "10",
+      "name": "áo khoác chăn bông nam",
+      "cate_id": "2",
+      "price": 550000,
+      "detail": "với chất liệu cotton thoáng mát",
+      "image": "https://pubcdn.ivymoda.com/files/product/thumab/1400/2023/02/16/227612550ad11244aa081294b673c581.jpg",
+      "image1": "https://pubcdn.ivymoda.com/files/product/thumab/1400/2022/01/11/4296047af186f448459e25302cc2143c.JPG"
+    },
+    {
+      "id": "11",
+      "name": "quần âu kẻ caro",
+      "cate_id": "2",
+      "price": 500000,
+      "detail": "với chất liệu cotton thoáng mát",
+      "image": "https://pubcdn.ivymoda.com/files/product/thumab/1400/2020/10/16/d6644257901777c7d45a681fd699f5cf.JPG",
+      "image1": "https://pubcdn.ivymoda.com/files/product/thumab/1400/2022/01/11/4296047af186f448459e25302cc2143c.JPG"
+    },
+    {
+      "id": "12",
+      "name": "áo thun cổ lọ",
+      "cate_id": "2",
+      "price": 500000,
+      "detail": "với chất liệu cotton thoáng mát",
+      "image": "https://pubcdn.ivymoda.com/files/product/thumab/1400/2023/11/27/64211e2756f6f8f7e61b4ced61a03ad5.jpg",
+      "image1": "https://pubcdn.ivymoda.com/files/product/thumab/1400/2022/01/11/4296047af186f448459e25302cc2143c.JPG"
+    }
+  ],
+  "oders": [
+    {
+      "id": "1",
+      "customer_name": "áo sơ mi nữ",
+      "customer_address": "Cái Răng, Cần Thơ",
+      "customer_email": "ngan123@gmail.com",
+      "customer_phone_number": "0919763052",
+      "created_date": "11/01/2024",
+      "status": "đã giao hàng"
+    },
+    {
+      "id": "2",
+      "customer_name": "áo sơ mi nam",
+      "customer_address": "Cái Răng, Cần Thơ",
+      "customer_email": "ngan1213@gmail.com",
+      "customer_phone_number": "0919763982",
+      "created_date": "18/01/2024",
+      "status": "đang chuẩn bị hàng"
+    }
+  ],
+  "order_details": [
+    {
+      "order_id": "1",
+      "product_id": "1",
+      "quantity": "3",
+      "unit_price": "500000",
+      "id": "1f2f"
+    },
+    {
+      "order_id": "1",
+      "product_id": "1",
+      "quantity": "2",
+      "unit_price": "400000",
+      "id": "3b31"
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "username": "ngan",
+      "password": "123456"
+    },
+    {
+      "id": "2",
+      "username": "Dung",
+      "password": "123456"
+    },
+    {
+      "id": "3",
+      "username": "Giang",
+      "password": "123456"
+    },
+    {
+      "id": "4",
+      "username": "Giềng",
+      "password": "123456"
+    },
+    {
+      "id": "5bed",
+      "username": "vu",
+      "password": "051196"
+    },
+    {
+      "id": "3b85",
+      "username": "khanh",
+      "password": "81018"
+    }
+  ]
+}
